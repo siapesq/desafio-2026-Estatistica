@@ -68,17 +68,6 @@ Critério utilizado:
 
 ---
 
-### ⚖️ Comparação: vifstep vs vifcor
-
-| Critério      | vifstep        | vifcor          |
-|--------------|---------------|-----------------|
-| Método       | Iterativo VIF | Correlação direta |
-| Precisão     | Alta          | Média           |
-| Controle     | Alto          | Baixo           |
-| Velocidade   | Menor         | Maior           |
-
----
-
 ## ✅ Resultado Esperado
 
 - Conjunto final de variáveis:
