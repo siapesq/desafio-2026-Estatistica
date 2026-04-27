@@ -122,6 +122,3 @@ Relatório técnico contendo:
 
 Contato em email: siapesq@gmail.com
 
-## 🚀 Autor
-
-Desafio técnico — etapa de análise estatística
